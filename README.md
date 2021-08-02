@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Image]([url=https://www.hizliresim.com/kp8xhni][img]https://i.hizliresim.com/kp8xhni.JPG[/img][/url])
+[url=https://www.hizliresim.com/kp8xhni][img]https://i.hizliresim.com/kp8xhni.JPG[/img][/url]
